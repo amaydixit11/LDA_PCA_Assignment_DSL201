@@ -52,7 +52,7 @@ LDA enhanced class separability for certain digits (e.g., 0 and 2), but k-NN per
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/amaydixit11/LDA_PCA_Assignment_DSL201
    ```
 2. Run the Jupyter notebooks to execute the experiments for both LDA and PCA.
 
